@@ -1,0 +1,1 @@
+this is a weather app. we can fetch weather by entering city and country.
